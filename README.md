@@ -12,9 +12,9 @@
 |     8  | CVPR2020  | BANet: Bidirectional Aggregation Network with Occlusion Handling for Panoptic Segmentation |[论文](https://arxiv.org/pdf/2003.14031.pdf)|
 |   9    | CVPR2021  | (BCNet)Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers  |[论文](https://arxiv.org/pdf/2103.12340.pdf)|
 |    10   | AAAI2021  | Amodal segmentation based on visible region segmentation and shape prior |[论文](https://arxiv.org/abs/2012.05598)|
-|     11  | CVPR2021  | Amodal panoptic segmentation   |[论文](https://arxiv.org/abs/2202.11542)|
-|  12     |CVPR2021  | Occlusion-Aware Video Object Inpainting   |[论文](https://arxiv.org/abs/2108.06765)|
-|     13  | arXiv2022  |Aisformer: Amodal instance segmentation with transformer   |[论文](https://arxiv.org/abs/2210.06323)|
-|   14    | Nips2022 | Self-supervised Amodal Video Object Segmentation  |[论文](https://arxiv.org/abs/2210.12733)|
+|  11    |CVPR2021  | Occlusion-Aware Video Object Inpainting   |[论文](https://arxiv.org/abs/2108.06765)|
+|     12  | arXiv2022  |Aisformer: Amodal instance segmentation with transformer   |[论文](https://arxiv.org/abs/2210.06323)|
+|   13    | Nips2022 | Self-supervised Amodal Video Object Segmentation  |[论文](https://arxiv.org/abs/2210.12733)|
+|     14  | CVPR2022  | Amodal panoptic segmentation   |[论文](https://arxiv.org/abs/2202.11542)|
 |      15 | AAAI2023 | Amodal Instance Segmentation via Prior-Guided Expansion   |[论文](https://ojs.aaai.org/index.php/AAAI/article/view/25104/24876)|
 |     16  | ICCV2023 | Coarse-to-Fine Amodal Segmentation with Shape Prior   |[论文](https://arxiv.org/abs/2308.16825)|
