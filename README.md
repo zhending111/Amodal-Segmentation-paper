@@ -18,5 +18,5 @@
 |     14  | CVPR2022  | Amodal panoptic segmentation   |[论文](https://arxiv.org/abs/2202.11542)|
 |      15 | AAAI2023 | Amodal Instance Segmentation via Prior-Guided Expansion   |[论文](https://ojs.aaai.org/index.php/AAAI/article/view/25104/24876)|
 |     16  | ICCV2023 | Coarse-to-Fine Amodal Segmentation with Shape Prior   |[论文](https://arxiv.org/abs/2308.16825)|
-|     17  | ICCV2023 | Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation  |[论文]([https://arxiv.org/abs/2308.16825](https://arxiv.org/abs/2309.13248)https://arxiv.org/abs/2309.13248)|
-|     18  | ICCV2023 | MUVA: A New Large-Scale Benchmark for Multi-View Amodal Instance Segmentation in the Shopping Scenario   |[论文]([https://arxiv.org/abs/2308.16825](https://openaccess.thecvf.com/ICCV2023)https://openaccess.thecvf.com/ICCV2023)|
+|     17  | ICCV2023 | Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation  |[论文](https://arxiv.org/abs/2309.13248)|
+|     18  | ICCV2023 | MUVA: A New Large-Scale Benchmark for Multi-View Amodal Instance Segmentation in the Shopping Scenario   |[论文](https://openaccess.thecvf.com/ICCV2023)|
