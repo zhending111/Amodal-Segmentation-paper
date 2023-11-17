@@ -20,3 +20,4 @@
 |     16  | ICCV2023 | Coarse-to-Fine Amodal Segmentation with Shape Prior   |[论文](https://arxiv.org/abs/2308.16825)|
 |     17  | ICCV2023 | Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation  |[论文](https://arxiv.org/abs/2309.13248)|
 |     18  | ICCV2023 | MUVA: A New Large-Scale Benchmark for Multi-View Amodal Instance Segmentation in the Shopping Scenario   |[论文](https://openaccess.thecvf.com/ICCV2023)|
+|  19 |ECCV2022|2D Amodal Instance Segmentation Guided by 3D Shape Prior|[论文](https://link.springer.com/chapter/10.1007/978-3-031-19818-2_10)|
